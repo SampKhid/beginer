@@ -1,0 +1,74 @@
+body{
+        font-family: 'Times New Roman', Times, serif;
+        margin: 0%;
+                
+}
+
+/* HEADER */
+
+header{
+        background-image: url(flywheel.jpg);
+        padding: 1%;
+}
+
+/* H1  */
+
+h1{
+        text-transform: uppercase;
+        text-decoration: none;
+        text-align: center;
+        color: #ffffff;
+                    
+}
+
+nav{
+        text-align: center;
+        
+}
+
+/* LINK IN NAVIGATION */
+nav a{
+        text-decoration: none;
+        color: #000000;
+        margin: 3%;
+        box-shadow: white;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 200%;
+        background: #cec5c9b4;
+        margin: 5%; 
+        
+       
+}
+/* 
+a{
+        text-align: center;
+        
+} */
+
+/* PSEUDO CLASS */
+/* nav a:hover{
+        color: #c7c6c6;
+        background: #af4e4e;
+        box-shadow: black;
+} */
+ /* .image{        
+        width: 20%;
+        height: 20%;
+        margin: 3%;
+        border: solid black;
+        display: flex;
+        flex-direction: column;
+} */
+
+ .right{
+        float: left;
+        width: 50%;
+        height: 100%;
+} 
+
+
+h2{
+        text-transform: uppercase;
+        text-align: center;
+}
